@@ -1,0 +1,2 @@
+# MinicursoGit
+Workshop
